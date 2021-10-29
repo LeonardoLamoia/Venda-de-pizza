@@ -1,6 +1,7 @@
 ##
-<h1 align="center">Sistema de Venda de Pizzas 👉100% Responsivo </h1>
 
+<h1 align="center"> 🍕Sistema de Venda de Pizzas 👉 100% Responsivo </h1>
+<br>
 <p align="center">
   
   <h1>🚀Tecnologias</h1>
