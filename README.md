@@ -1,7 +1,7 @@
 ##
 
 <h1 align="center">
-Crachá Virtual DoWhile Nlw - Responsivo
+Sistema de venda de Pizzas - Responsivo
 </h1>
 
 <p align="center">
