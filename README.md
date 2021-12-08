@@ -9,7 +9,7 @@ Sistema de venda de Pizzas - Responsivo
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 
-![alt-text](https://github.com/LeonardoLamoia/Venda-de-pizza/blob/main/gif.gif)
+             ![alt-text](https://github.com/LeonardoLamoia/Venda-de-pizza/blob/main/gif.gif)  
 
 ## 🚀 Tecnologias
 
